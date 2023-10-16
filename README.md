@@ -23,7 +23,7 @@ Uma vez dentro do contêiner, execute o aplicativo Python.
 python linked_list.py
 ```
 
-Se prefer pode executar os test unitarios feitos com pytest
+Se prefirir pode executar os test unitarios feitos com pytest
 ```bash
 python test_linked_list.py
 ```
